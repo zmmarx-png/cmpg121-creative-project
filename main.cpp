@@ -113,12 +113,13 @@ int main() {
     playLevel(level2, score, "Chamber of Reactions");
     playLevel(level3, score, "Chamber of Organic Shadows");
 
-    cout << "\n👑 You’ve reached the final battle: The Bond Master!\n";
+    cout << "\nYou’ve reached the final battle: The Bond Master!\n";
     playLevel(boss, score, "Boss Battle");
 
-    cout << "\n🏆 Final Score: " << score << "\n";
+    cout << "\nFinal Score: " << score << "\n";
     saveProgress("progress.txt", playerName, score);
     cout << "Progress saved. Farewell, " << playerName << "!\n";
 
     return 0;
 }
+
