@@ -1,0 +1,20 @@
+Room: Chamber of Reactions
+Which type of reaction is: 2H2 + O2 → 2H2O?
+A) Synthesis
+B) Decomposition
+C) Combustion
+Answer: A
+
+Room: Chamber of Reactions
+What is the product of NaOH + HCl?
+A) NaCl + H2O
+B) NaOH + Cl2
+C) NaCl + H2
+Answer: A
+
+Room: Chamber of Reactions
+Which reaction type involves heat release?
+A) Endothermic
+B) Exothermic
+C) Neutralization
+Answer: B
