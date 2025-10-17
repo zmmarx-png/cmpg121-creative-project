@@ -1,4 +1,5 @@
 Chronicles of Chemistry – CMPG121 Creative Project
+
 This repository contains the source code and quiz data files for Chronicles of Chemistry, a multi-level chemistry-themed adventure game developed for the CMPG121 Creative Project.
 
 Game Overview:
